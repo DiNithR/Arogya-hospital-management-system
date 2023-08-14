@@ -1,0 +1,53 @@
+@charset "utf-8";
+@import url("../webfonts/COPRGTB/stylesheet.css");
+
+body {
+	
+	background:url(../images/background.jpg) no-repeat center center fixed ;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+
+h1{
+	text-align:center;
+	font-family:"calibri";
+	font-size:60px;
+	padding-top:10px;
+	letter-spacing:5px;
+	
+}
+.table{
+	background-color:rgba(97, 70, 70, 0.5);
+	border:none;
+	
+	
+}
+.footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	
+	background-color: rgb(233, 219, 219);
+	height: 220px;
+	color: #000000;
+	font-family:"calibri";
+}
+
+.foot2{
+	background-color: rgb(229, 229, 229);
+	height: 40px;
+	color: #000000;
+	font-family:"calibri";
+
+	padding-top: 15px;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+}
